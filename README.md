@@ -35,5 +35,24 @@ From-Pixels-to-Privacy/
 ├── conda_requirements.txt
 ├── pip_requirements.txt
 ├── stprivacy.yml
+
+
+## 🧩 Proposed Framework
+
+![Architecture](images/architecture_mod.jpg)
+
+## 🖼️ Anonymized Images
+
+![Weight lifting](images/fig_1.png)
+![YoYo](images/fig_2.png)
+![Playing violon](images/fig_11.png)
+
+## 📊 Results
+![](images/Table1.jpg)
+![](images/Table2.jpg)
+
+## 📬 Contact
+
+For any inquiries or feedback, feel free to reach out: [naas@create.aau.dk](mailto:naas@create.aau.dk)
 ├── README.md
 └── LICENSE
