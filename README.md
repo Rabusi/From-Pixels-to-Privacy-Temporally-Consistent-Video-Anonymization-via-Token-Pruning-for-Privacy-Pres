@@ -52,7 +52,7 @@ From-Pixels-to-Privacy/
 ## 🧩 Proposed Framework
 
 <p align="center">
-  <img src="images/architecture_mod.jpg" alt="Architecture" width="900">
+  <img src="images/fig.jpg" alt="Architecture" width="900">
 </p>
 
 ---
