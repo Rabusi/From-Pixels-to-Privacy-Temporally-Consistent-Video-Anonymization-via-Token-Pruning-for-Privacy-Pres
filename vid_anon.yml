@@ -1,0 +1,27 @@
+name: vid_anon
+channels:
+  - nvidia
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.8
+  - pytorch
+  - torchvision
+  - torchaudio
+  - segmentation-models-pytorch
+  - opencv
+  - scikit-learn
+  - tensorboardx
+  - matplotlib
+  - pandas
+  - visdom
+  - einops
+  - torchinfo
+  - imageio
+  - gast
+  - dm-tree
+  - astunparse
+  - efficientnet-pytorch
+  - pretrainedmodels
+  - pip
