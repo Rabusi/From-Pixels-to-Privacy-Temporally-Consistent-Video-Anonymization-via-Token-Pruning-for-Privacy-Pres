@@ -42,7 +42,7 @@ From-Pixels-to-Privacy/
 ├── images/
 ├── conda_requirements.txt
 ├── pip_requirements.txt
-├── stprivacy.yml
+├── vid_anon.yml
 ├── README.md
 └── LICENSE
 ```
@@ -57,7 +57,7 @@ From-Pixels-to-Privacy/
 
 ---
 
-## 🖼️ Anonymized Images
+## Anonymized Images
 
 <p align="center">
   <img src="images/fig_1.jpeg" alt="Weight lifting" width="100%">
