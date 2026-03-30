@@ -4,7 +4,7 @@
 [Nazia Aslam](https://rabusi.github.io/), [Abhisek Ray](https://scholar.google.com/citations?user=a7HOeC8AAAAJ&hl=en), [Joakim Bruslund Haurum](https://scholar.google.com/citations?hl=en&user=GAEtgr4AAAAJ&view_op=list_works&sortby=pubdate), [Lukus Esterle](https://scholar.google.com/citations?user=KOC8OykAAAAJ&hl=en), [Kamal Nasrollahi](https://scholar.google.com/citations?user=EqjkO6sAAAAJ&hl=en)
 
 
-[![paper](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2308.11072)
+[![paper](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2603.26336)
 
 ⭐ If you find this work helpful to your research, Don't forget to give a star to this repo. Thanks! 🤗
 
@@ -57,11 +57,11 @@ From-Pixels-to-Privacy/
 ## 📊 Results
 
 <p align="center">
-  <img src="images/Table1.jpg" alt="Results Table 1" width="85%">
+  <img src="images/Table1.jpg" alt="Results Table 1" width="100%">
 </p>
 
 <p align="center">
-  <img src="images/Table2.jpg" alt="Results Table 2" width="85%">
+  <img src="images/Table2.jpg" alt="Results Table 2" width="100%">
 </p>
 
 ---
@@ -74,16 +74,3 @@ For any inquiries or feedback, feel free to reach out:
 - **Email:** [naas@create.aau.dk](mailto:naas@create.aau.dk)
 
 ---
-
-## ⭐ Citation
-
-If you use this work in your research, please cite:
-
-```bibtex
-@article{aslam2025pixelsprivacy,
-  title={From Pixels to Privacy: Temporally Consistent Video Anonymization via Token Pruning for Privacy Preserving Action Recognition},
-  author={Aslam, Nazia and Ray, Abhisek and Haurum, Joakim Bruslund and Esterle, Lukas and Nasrollahi, Kamal},
-  journal={arXiv preprint arXiv:2504.14301},
-  year={2025}
-}
-```
